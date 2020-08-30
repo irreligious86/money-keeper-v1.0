@@ -129,7 +129,7 @@ percentValue.addEventListener('input', function() {
 });
 //-----------------------------------------------------------------------------------
 
-let appData = { 
+let appData  = { 
     budget: money,
     timeData: time,
     expenses: {},

@@ -1,5 +1,6 @@
 'use strict';
 
+
 let startBtn = document.getElementById('start'), // my
     budgetValue = document.getElementsByClassName('budget-value')[0],
     dayBudgetValue = document.getElementsByClassName('daybudget-value')[0],
